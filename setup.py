@@ -18,7 +18,6 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-
     name = "RegressorProject",
     version="0.0.1",
     author="bdbirla",
